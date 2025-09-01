@@ -26,6 +26,7 @@ This project builds and evaluates multiple machine learning models to classify S
 
 ## 📊 Evaluation Metrics
 <img width="606" height="124" alt="image" src="https://github.com/user-attachments/assets/3ed3c75e-8ccf-439b-8263-40c4b4a6650e" />
+
 Each model is evaluated using:
 
 - **Accuracy**
